@@ -1,5 +1,4 @@
-// Import the sillyname package
-const sillyname = require('sillyname');
+import sillyname from "sillyname"
 
 // Generate a random silly name
 const name = sillyname();
